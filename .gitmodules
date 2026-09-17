@@ -1,0 +1,9 @@
+[submodule "herdr"]
+	path = herdr
+	url = https://github.com/herdrdev/herdr
+[submodule "adns"]
+	path = adns
+	url = https://github.com/maceip/adns
+[submodule "agent-hosting"]
+	path = agent-hosting
+	url = https://github.com/maceip/agent-hosting
